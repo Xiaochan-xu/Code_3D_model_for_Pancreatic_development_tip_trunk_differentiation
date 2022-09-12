@@ -50,4 +50,6 @@ Results are presented in Supplementary Figure 6.
 `Main_6_Supp_Movies.m`
 
 Supplementary movies are made with simulated gene expression under different conditions.
- 
+
+## LICENSE
+This project is under **MIT License**.
