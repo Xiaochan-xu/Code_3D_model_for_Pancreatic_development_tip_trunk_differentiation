@@ -52,4 +52,4 @@ Results are presented in Supplementary Figure 6.
 Supplementary movies are made with simulated gene expression under different conditions.
 
 ## LICENSE
-This project is under **MIT License**.
+This project is under the **MIT License**.
