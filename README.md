@@ -51,5 +51,15 @@ Results are presented in Supplementary Figure 6.
 
 Supplementary movies are made with simulated gene expression under different conditions.
 
+### Example
+`A_Example`
+After the Simulation_Code.zip file is downloaded and unzipped, an example can be run within the folder.
+To run the example:
+
+1) Type "A_Example" at the Command Window
+2) Expected to get informations of gene expression dynamics and cell fates shown on 3D structure, ae well as figures
+3) For one simulation with macOS Catalina (Version 10.15.1) system, MATLAB 2019a, estimated time is 1 minute.
+
+
 ## LICENSE
 This project is under the **MIT License**.
