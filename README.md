@@ -52,7 +52,8 @@ Results are presented in Supplementary Figure 6.
 Supplementary movies are made with simulated gene expression under different conditions.
 
 ### Example
-`A_Example`
+`A_Example.m`
+
 After the Simulation_Code.zip file is downloaded and unzipped, an example can be run within the folder.
 To run the example:
 
